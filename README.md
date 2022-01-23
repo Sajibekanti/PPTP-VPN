@@ -8,7 +8,7 @@ Tested on Centos 7.0 (VPS)
 
 # Install
 
-Copy script by using ` git clone wget https://github.com/Sajibekanti/PPTP-VPN.git `
+Copy script by using ` git clone  https://github.com/Sajibekanti/PPTP-VPN.git `
 
 Run using  ` ./install.sh `
 
